@@ -1,1 +1,3 @@
 Meu arquivo de configuracoes do projeto.
+
+O Projeto serve para mostrar a data atual.
