@@ -1,2 +1,3 @@
 class Modelo: 
-    pass
+    def modelar(self):
+         pass
