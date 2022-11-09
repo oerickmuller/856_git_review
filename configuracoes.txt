@@ -1,3 +1,4 @@
 Meu arquivo de configuracoes do projeto.
 
-O Projeto serve para mostrar a data atual, e avisa que está mostrando a data.
+O Projeto serve para mostrar a data atual, avisa que está mostrando a data, e usa a classe de Modelo.
+
